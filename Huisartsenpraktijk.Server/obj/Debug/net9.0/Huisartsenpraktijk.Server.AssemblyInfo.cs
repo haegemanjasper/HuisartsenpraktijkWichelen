@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Huisartsenpraktijk.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+522cc4eefbccad4843df792275968d256e4fb33f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Huisartsenpraktijk.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Huisartsenpraktijk.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
