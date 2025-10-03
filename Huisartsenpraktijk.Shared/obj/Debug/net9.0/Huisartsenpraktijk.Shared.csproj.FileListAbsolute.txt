@@ -1,0 +1,11 @@
+C:\Users\Jasper\source\repos\Huisartsenpraktijk.Shared\bin\Debug\net9.0\Huisartsenpraktijk.Shared.deps.json
+C:\Users\Jasper\source\repos\Huisartsenpraktijk.Shared\bin\Debug\net9.0\Huisartsenpraktijk.Shared.dll
+C:\Users\Jasper\source\repos\Huisartsenpraktijk.Shared\bin\Debug\net9.0\Huisartsenpraktijk.Shared.pdb
+C:\Users\Jasper\source\repos\Huisartsenpraktijk.Shared\obj\Debug\net9.0\Huisartsenpraktijk.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jasper\source\repos\Huisartsenpraktijk.Shared\obj\Debug\net9.0\Huisartsenpraktijk.Shared.AssemblyInfoInputs.cache
+C:\Users\Jasper\source\repos\Huisartsenpraktijk.Shared\obj\Debug\net9.0\Huisartsenpraktijk.Shared.AssemblyInfo.cs
+C:\Users\Jasper\source\repos\Huisartsenpraktijk.Shared\obj\Debug\net9.0\Huisartsenpraktijk.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Jasper\source\repos\Huisartsenpraktijk.Shared\obj\Debug\net9.0\Huisartsenpraktijk.Shared.dll
+C:\Users\Jasper\source\repos\Huisartsenpraktijk.Shared\obj\Debug\net9.0\refint\Huisartsenpraktijk.Shared.dll
+C:\Users\Jasper\source\repos\Huisartsenpraktijk.Shared\obj\Debug\net9.0\Huisartsenpraktijk.Shared.pdb
+C:\Users\Jasper\source\repos\Huisartsenpraktijk.Shared\obj\Debug\net9.0\ref\Huisartsenpraktijk.Shared.dll
